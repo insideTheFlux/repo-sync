@@ -1,0 +1,11 @@
+# Only the tool's own files belong here. If you use this folder itself as the -Root, the clones, logs and your
+# lists stay out of git.
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/install.ps1
+!/sync-repos.ps1
+!/clean-targets.ps1
+!/notify-failures.ps1
+!/repos.example.txt

@@ -1,0 +1,8 @@
+# The repos to keep in sync, each cloned to <this folder>\<owner>\<name> on the first run.
+# One "owner/name" per line. Extra remotes to fetch as well follow as name=owner/repo (handy for your own fork).
+# Lines starting with # are ignored.
+
+storytold/lightcraft
+storytold/photocraft
+storytold/craft-libs
+# storytold/lightcraft fork=yourname/lightcraft
